@@ -17,7 +17,7 @@ public class App {
     public static void main(String[] args) {
 
 
-        Dog.woof();
+        OpenStatus.myDisplay();
 
         //properties for kafka
         Properties props = new Properties();
