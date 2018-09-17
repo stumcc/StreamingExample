@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.Properties;
 
 /**
- * Sample code for kafka - useful for various situatiosn
+ * Sample code for kafka - useful for various situations
  *
  */
 public class App {
