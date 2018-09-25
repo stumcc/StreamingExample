@@ -9,5 +9,5 @@ public class OpenStatus {
         System.out.println("We will now attempt to connect 3");
         System.out.println("We will now attempt to connect 4");
         System.out.println("We will now attempt to connect 4");
-    }
+        System.out.println("We will now attempt to connect 4");}
 }
